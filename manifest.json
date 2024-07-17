@@ -1,0 +1,11 @@
+{
+	"id": "create-file-under-folder",
+	"name": "Folded",
+	"version": "0.1.0",
+	"minAppVersion": "0.1.0",
+	"description": "Create a file under the currently active folder.",
+	"author": "Sonu Farid",
+	"authorUrl": "https://github.com/sonufarid",
+	"fundingUrl": "https://github.com/sonufarid",
+	"isDesktopOnly": true
+}
